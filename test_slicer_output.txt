@@ -1,0 +1,4 @@
+Trying Add2 with PivotField object
+Success Add2 PivotField
+Failed Slicers.Add (4 args): (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147024809), None)
+Slicer added to Dashboard sheet (1 arg).

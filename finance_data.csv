@@ -1,0 +1,36 @@
+ID,Date,Amount,Category,Description,Type
+47ed59f7-3a88-44bc-ab62-2a7bc8b7075a,2026-02-27,700,CAB,cab from hostel to airport,Expense
+776c6602-3807-4502-9fa1-c13e11356e6b,2026-02-27,640,food,Ate food from KFC,Expense
+744c727f-4bd5-4a9d-833c-95a7d7e22efb,2026-03-24,500,Blinkit,bought essentials from blinkit,Expense
+skdfna;g,2026-03-25,550,outing,Outing at marina mall,Expense
+SDfS,2026-03-22,200,Food,Gazebo,Expense
+2738151e-008f-452b-9326-e409dbfcb37a,2025-06-28,3112.45,Food,Auto entry,Income
+4fb2e39c-bbe6-4090-a243-b76ffc7bc782,2025-10-14,4899.21,Shopping,Auto ,Income
+49f5e581-e355-4bc7-b539-738d00442a00,2025-07-31,278.55,Bills,Auto entry,Income
+90f5439a-5a27-4b0c-937e-5e522633417a,2025-07-30,1560.22,Transport,Auto entry,Expense
+c7ea737d-49b6-4378-8c2a-e485b7c570e3,2025-12-08,4210.9,Health,Auto entry,Income
+e5e3e4e9-aa4d-4224-b86d-8d2b4d42a8c3,2025-03-18,890.44,Food,Auto entry,Expense
+0dff6e22-acbc-4bf0-9b5f-2d88e02c600a,2025-01-28,3622.11,Entertainment,Auto entry,Income
+4a379a1b-5466-4cf3-9d1d-34ebf3ab0ff9,2025-06-24,540.75,Transport,Auto entry,Expense
+7ecadabb-e438-42b9-9aa1-e44d784cd38a,2025-10-24,2988.33,Shopping,Auto entry,Income
+009f690b-ff96-4f0b-b487-e29bdbd8872e,2025-08-17,4721.88,Food,Auto entry,Income
+eb6bc834-276f-4db8-a90f-4bb6f0a2d263,2025-06-05,1250.67,Bills,Auto entry,Income
+b565cd37-ca02-4fcc-863d-da8e28dee351,2025-05-03,3300.45,Health,Auto entry,Income
+a6d76d09-b52a-4c8e-a804-dbfd3815b0f0,2025-05-16,720.19,Entertainment,Auto entry,Expense
+4625aef0-ef68-4bef-8462-fc32acb542d4,2025-07-24,4100,Food,Auto entry,Income
+5232c2ce-3b7d-4661-8841-ec3b11a4832f,2025-12-12,980.55,Bills,Auto entry,Expense
+a8984b6a-b2ed-4824-885d-31ffb5495d54,2025-06-25,2999.99,Shopping,Auto entry,Income
+b8ed991d-80ff-4c84-9115-0921e216942f,2025-01-12,1500,Transport,Auto entry,Income
+622a5bd5-54c0-4f02-8f2f-fd75285e58c8,2025-08-07,2750.75,Entertainment,Auto entry,Income
+0305e905-2391-4fb8-911f-d23499bac954,2025-04-25,499.99,Health,Auto entry,Income
+2da0addb-102d-4fb9-89be-fdb481c28758,2025-12-10,1350.6,Food,Auto entry,Expense
+fb29e7a9-9f9a-47f8-b68a-8c930b9cff4f,2025-08-07,3650.8,Shopping,Auto entry,Income
+644f4007-e46f-468a-9a98-2479643eb320,2025-04-11,890,Transport,Auto entry,Expense
+f9c5b192-eb75-4dfd-94fb-fb66ceba607f,2025-08-16,4200.12,Bills,Auto entry,Income
+d2d52cec-d7ad-4050-8156-f79c73d1eb50,2025-09-02,765.43,Entertainment,Auto entry,Expense
+611e12b8-d7ed-463e-b339-e7bbbda8a372,2025-02-03,3100,Health,Auto entry,Income
+470ba01d-a4fc-4c8f-bc08-2600726d8d51,2025-01-17,2890.77,Food,Auto entry,Income
+8660e590-8ded-46e3-b00f-64c5b2bd5f39,2025-04-18,650.3,Bills,Auto entry,Expense
+832b117f-e6aa-4603-816a-9e4aa9eab22b,2025-03-13,1450.1,Transport,Auto entry,Expense
+13174ac0-f180-42e9-a888-f9b5ae12186e,2025-07-07,980,Shopping,Auto entry,Expense
+285556e4-f878-4c62-baab-3701ec76995e,2025-08-23,2100.55,Entertainment,Auto entry,Expense
